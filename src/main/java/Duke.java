@@ -108,6 +108,7 @@ public class Duke {
         } catch (DateTimeParseException e) {
             print(e.toString());
         }
+
         return s;
     }
 
